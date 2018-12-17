@@ -1,0 +1,1 @@
+example file for public folder , every users should be able to get files using GET '/public/file_name'
