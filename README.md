@@ -1,16 +1,10 @@
-# express-ts-boilerplate
-
-This repository is a boilerplate for Typescript express application with mysql backend.
-
-## Requirement
-* Nodejs
-* MySQL
+# typeorm-passport-boilerplate
 
 ## Quick Start
 #### 1. Clone this repository
-`$ git clone https://github.com/Pepewitch/express-mysql-boilerplate.git`
+`$ git clone https://github.com/Pepewitch/typeorm-passport-boilerplate.git`
 #### 2. Enter the directory
-`$ cd express-mysql-boilerplate`
+`$ cd typeorm-passport-boilerplate`
 #### 3. Install packages
 Either npm or yarn is okay. Choose one.
 
